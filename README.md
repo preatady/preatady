@@ -2,10 +2,10 @@
   <table>
     <tr>
       <td align="center">
-        <img height="195px" src="https://github-readme-stats.vercel.app/api?username=preatady&show_icons=true&include_all_commits=true&include_private_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Dat's%20GitHub%20Stats&cache_seconds=21600" alt="Dat Nguyen github stats" />
+        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=preatady&show_icons=true&include_all_commits=true&include_private_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Dat's%20GitHub%20Stats" alt="Dat Nguyen github stats" />
       </td>
       <td align="center">
-        <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preatady&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages&cache_seconds=21600" alt="Most Used Languages" />
+        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=preatady&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
@@ -33,36 +33,36 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/preatady/Subtitle-OCR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=preatady&repo=Subtitle-OCR&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF&cache_seconds=21600" alt="Subtitle OCR" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=preatady&repo=Subtitle-OCR&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Subtitle OCR" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/preatady/Ai-Agent-Skill">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=preatady&repo=Ai-Agent-Skill&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF&cache_seconds=21600" alt="AI Agent Skill" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=preatady&repo=Ai-Agent-Skill&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="AI Agent Skill" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/preatady/hand_ai_draw">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=preatady&repo=hand_ai_draw&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF&cache_seconds=21600" alt="Hand AI Draw" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=preatady&repo=hand_ai_draw&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Hand AI Draw" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/preatady/Ai-web-search-chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=preatady&repo=Ai-web-search-chatbot&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF&cache_seconds=21600" alt="AI Web Search Chatbot" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=preatady&repo=Ai-web-search-chatbot&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="AI Web Search Chatbot" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/preatady/Computer_store_manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=preatady&repo=Computer_store_manager&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF&cache_seconds=21600" alt="Computer Store Manager" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=preatady&repo=Computer_store_manager&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Computer Store Manager" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/preatady/dat-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=preatady&repo=dat-portfolio&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF&cache_seconds=21600" alt="Dat Portfolio" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=preatady&repo=dat-portfolio&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Dat Portfolio" width="100%"/>
       </a>
     </td>
   </tr>
@@ -76,11 +76,11 @@
         <a href="https://github.com/preatady" target="_blank">
           <img src="./assets/github.svg" alt="GitHub" width="250px"/>
         </a>
+        <a href="https://github.com/preatady?tab=repositories">
+          <img src="./assets/repositories.svg" alt="Repositories" width="250px"/>
+        </a>
         <a href="https://github.com/preatady/dat-portfolio" target="_blank">
           <img src="./assets/portfolio.svg" alt="Portfolio" width="250px"/>
-        </a>
-        <a href="https://www.linkedin.com/in/dat-nguyen-dsut/" target="_blank">
-          <img src="./assets/linkedin.svg" alt="LinkedIn" width="250px"/>
         </a>
 </div>
 
